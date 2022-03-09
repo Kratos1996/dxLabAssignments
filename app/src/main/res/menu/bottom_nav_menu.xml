@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottomnav_home"
+        android:icon="@drawable/home_selector"
+        android:title="@string/home" />
+
+    <item
+        android:id="@+id/bottomnav_order"
+        android:icon="@drawable/history_selector"
+        android:title="@string/order" />
+
+    <item
+        android:id="@+id/bottomnav_empty"
+        android:title="" />
+
+    <item
+        android:id="@+id/bottomnav_notification"
+        android:icon="@drawable/notification_selector"
+        android:title="@string/notification" />
+
+    <item
+        android:id="@+id/bottomnav_account"
+        android:icon="@drawable/account_selector"
+        android:title="@string/my_account" />
+
+</menu>

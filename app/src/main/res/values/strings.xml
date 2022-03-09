@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DXAssignment</string>
+    <string name="home">Home</string>
+    <string name="order">Order</string>
+    <string name="notification">Notification</string>
+    <string name="my_account">My Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="orders">Orders</string>
+    <string name="about_us">About Us</string>
+    <string name="new_order">New Order</string>
+</resources>
